@@ -5,8 +5,10 @@
 
 
 ### About me
-I'm a QA analyst.
+I'm a QA analyst and I love developing the ideas I think of in my spare time...
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
+👨🏼‍🏫 - Knowledge on many technologies, such as Postman, Cypress, JMeter, BDD, Gherkin, SmokeTest, Flutter, Dart, Git and more.
+✍🏼 - I'm write about many things.
+💻 - Working on it.
+
+IN PROGRESS...
