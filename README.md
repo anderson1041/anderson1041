@@ -5,12 +5,11 @@
 
 
 ### About me
-I'm a QA analyst and I love developing the ideas I think of in my spare time...
+I'm a quality control analyst and I love developing the ideas I think of in my spare time... not only that, I like being with my family, playing football and binge watching series =p
 
 👨🏼‍🏫 - Knowledge on many technologies, such as Postman, Cypress, JMeter, BDD, Gherkin, SmokeTest, Flutter, Dart, Git and more.
-✍🏼 - I'm write about many things.
-💻 - Working on it.
+💻 - Working working in the technology area since 2019.
 
-IN PROGRESS...
+EVOLVING...
 
 ![anderson1041 Status](https://github-readme-stats.vercel.app/api?username=anderson1041&show_icons=true)    [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson1041&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
