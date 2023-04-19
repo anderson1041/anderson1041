@@ -12,4 +12,4 @@ I'm a quality control analyst and I love developing the ideas I think of in my s
 
 EVOLVING...
 
-![anderson1041 Status](https://github-readme-stats.vercel.app/api?username=anderson1041&show_icons=true)    [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson1041&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![anderson1041 Status](https://github-readme-stats.vercel.app/api?username=anderson1041&show_icons=true&theme=dark)    [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson1041&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
