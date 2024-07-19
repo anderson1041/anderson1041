@@ -7,7 +7,7 @@
 ### About me
 I'm a quality control analyst and I love developing the ideas I think of in my spare time... not only that, I like being with my family, playing football and binge watching series =p
 
-👨🏼‍🏫 - Knowledge on many technologies, such as Postman, Cypress, JMeter, BDD, Gherkin, SmokeTest, Flutter, Dart, Git and more.
+👨🏼‍🏫 - Knowledge on many technologies, such as Postman, Cypress, Playwright, JMeter, BDD, Gherkin, SmokeTest, Flutter, Dart, Git and more.
 💻 - Working working in the technology area since 2019.
 
 EVOLVING...
